@@ -3,4 +3,4 @@ The importance of having a correct value of the porosity exponent m in petrophys
 
 In general, as porosity of the composite system gets smaller, the value of m also gets smaller. This is illustrated in the graph with data of carbonates from 14 Abu Dhabi fields covering an area of approximately 10,000 km2 (Borai, 1987). Borai's best fit correlation is fine, but a better approach involves using a dual porosity model as it allows quantifying properties of the NFR. An example of such a dual porosity model, for the case in which mb = 2.2 and mf=1, is presented in the final graph as a crossplot of m vs. matrix porosity ϕ2 in the lower x-scale; ϕb is equivalent to porosity of an unfractured plug. 
 
-Data from Onepetro SPE 199073-MS
+Data from Onepetro SPE 199073-MS Naturally Fractured Reservoirs and their Link to Tight and Shale Petroleum Reservoirs 
